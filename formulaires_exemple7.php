@@ -1,5 +1,6 @@
 <?php
 // Démarrage ou reprise de session
+// Commentaire test.
 session_start();  
 ?>
 <!doctype html>
